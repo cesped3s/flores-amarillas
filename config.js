@@ -35,7 +35,7 @@ window.CONFIG = {
 
   /* Música (opcional). Sube tu mp3 al repositorio y pon su nombre aquí.
      Ejemplo: "musica.mp3". Déjalo vacío ("") para no usar música. */
-  musica: "",
+  musica: "fotos/music.mp3",
 
   /* ===================================================================
      RAMOS  ·  Cada ramo se puede tocar y abre una tarjeta.
@@ -63,8 +63,8 @@ window.CONFIG = {
       mensaje: "Cada girasol sigue al sol. Yo te sigo a ti, todos los días.\nGracias por hacer que todo empezara así de bonito.",
       destacado: "AMARILLAS",
       fotos: [
-        { src: "fotos/comienzo-1.jpg", pie: "Mi amor" },
-        { src: "fotos/comienzo-2.jpg", pie: "Te amo" },
+        { src: "fotos/1.jpeg", pie: "Mi amor" },
+        { src: "fotos/2.jpeg", pie: "Te amo" },
       ],
     },
     {
@@ -73,7 +73,7 @@ window.CONFIG = {
       color: "#ffb43a",
       tam: 58,
       mensaje: "Si el universo tuviera un centro, sería el lugar donde estás tú.",
-      fotos: [{ src: "fotos/favorita.jpg", pie: "Mi persona favorita" }],
+      fotos: [{ src: "fotos/3.jpeg", pie: "Mi persona favorita" }],
     },
     {
       nombre: "Risas infinitas",
@@ -82,7 +82,7 @@ window.CONFIG = {
       color: "#ffcf5a",
       tam: 52,
       mensaje: "Contigo hasta los días malos terminan en risa.\nNunca dejes de reírte así.",
-      fotos: [{ src: "fotos/risas.jpg", pie: "Ese día" }],
+      fotos: [{ src: "fotos/4.jpeg", pie: "Ese día" }],
     },
     {
       nombre: "Aventuras",
@@ -90,7 +90,7 @@ window.CONFIG = {
       color: "#f2e28a",
       tam: 48,
       mensaje: "Faltan muchos lugares por conocer y quiero recorrerlos todos contigo.",
-      fotos: [{ src: "fotos/aventuras.jpg", pie: "Nuestro viaje" }],
+      fotos: [{ src: "fotos/5.jpeg", pie: "Nuestro viaje" }],
     },
     {
       nombre: "Latidos",
@@ -100,7 +100,7 @@ window.CONFIG = {
       tam: 54,
       mensaje: "Mi corazón tiene tu nombre escrito en cada latido.",
       destacado: "Te amo",
-      fotos: [{ src: "fotos/latidos.jpg", pie: "Mi corazón" }],
+      fotos: [{ src: "fotos/6.jpeg", pie: "Mi corazón" }],
     },
     {
       nombre: "Sueños",
@@ -109,7 +109,7 @@ window.CONFIG = {
       color: "#ffb347",
       tam: 56,
       mensaje: "Quiero cumplir todos mis sueños, y que tú estés en cada uno.",
-      fotos: [{ src: "fotos/suenos.jpg", pie: "Lo que viene" }],
+      fotos: [{ src: "fotos/7.jpeg", pie: "Lo que viene" }],
     },
     {
       nombre: "Abrazos",
@@ -128,9 +128,9 @@ window.CONFIG = {
       mensaje: "Te elegí ayer, te elijo hoy y te voy a elegir siempre.\nFeliz primavera, mi amor.",
       destacado: "Siempre juntos",
       fotos: [
-        { src: "fotos/siempre-1.jpg", pie: "Tú y yo" },
-        { src: "fotos/siempre-2.jpg", pie: "Para siempre" },
-        { src: "fotos/siempre-3.jpg", pie: "Mi girasol" },
+        { src: "fotos/9.jpeg", pie: "Tú y yo" },
+        { src: "fotos/10.jpeg", pie: "Para siempre" },
+        { src: "fotos/11.jpeg", pie: "Mi girasol" },
       ],
     },
   ],
