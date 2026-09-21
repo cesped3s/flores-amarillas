@@ -113,7 +113,7 @@ window.CONFIG = {
     },
     {
       nombre: "Abrazos",
-      estilo: "maceta",
+      estilo: "jarron",
       color: "#ffd166",
       tam: 50,
       mensaje: "Tus abrazos son el único lugar donde todo se calma.",
