@@ -7,7 +7,7 @@ window.CONFIG = {
 
   /* Pantalla de entrada */
   intro: {
-    titulo: "Para ti, mi amor",
+    titulo: "Para ti, mi bubu",
     subtitulo: "Feliz comienzo de primavera",
     boton: "Entrar a la galaxia",
   },
@@ -16,13 +16,13 @@ window.CONFIG = {
   titulo: "Feliz Primavera 🌻",
 
   /* Frase dentro del corazón de estrellas */
-  corazon: "Te amo 💛",
+  corazon: "Le amo 💛",
 
   /* Palabras que flotan por la galaxia (agrega o borra las que quieras) */
   palabras: [
-    "Te Amo 💛", "Mi Amor 💛", "Me encantas 🌻", "Eres mi sol 🌞",
+    "Le Amo 💛", "Mi Amor 💛", "Me encantas 🌻", "Eres mi sol 🌞",
     "Siempre juntos 💛", "Eres preciosa 🌼", "Amor de mi vida 💛", "Te adoro 💐",
-    "Eres mi todo 🌻", "My Love 💛", "Mi girasol 🌻", "Mi lugar seguro 🏡",
+    "Eres mi todo 🌻", "Mi Bubu 💛", "Mi girasol 🌻", "Mi lugar seguro 🏡",
   ],
 
 
@@ -30,7 +30,7 @@ window.CONFIG = {
   final: {
     titulo: "Los abriste todos",
     mensaje: "Cada uno de estos ramos era una forma distinta de decirte lo mismo.\nGracias por ser mi primavera todo el año.",
-    destacado: "Te amo",
+    destacado: "Le amo",
   },
 
   /* Música (opcional). Sube tu mp3 al repositorio y pon su nombre aquí.
@@ -60,11 +60,11 @@ window.CONFIG = {
       papel: "crema",
       color: "#ffc400",
       tam: 62,
-      mensaje: "Cada girasol sigue al sol. Yo te sigo a ti, todos los días.\nGracias por hacer que todo empezara así de bonito.",
+      mensaje: "Cada girasol sigue al sol. Yo la sigo a usted, todos los días.\nGracias por hacer que todo empezara así de bonito.",
       destacado: "AMARILLAS",
       fotos: [
         { src: "fotos/1.jpeg", pie: "Mi amor" },
-        { src: "fotos/2.jpeg", pie: "Te amo" },
+        { src: "fotos/2.jpeg", pie: "Le amo" },
       ],
     },
     {
@@ -72,7 +72,7 @@ window.CONFIG = {
       estilo: "corona",
       color: "#ffb43a",
       tam: 58,
-      mensaje: "Si el universo tuviera un centro, sería el lugar donde estás tú.",
+      mensaje: "Si el universo tuviera un centro, sería el lugar donde esta usted.",
       fotos: [{ src: "fotos/3.jpeg", pie: "Mi persona favorita" }],
     },
     {
@@ -81,7 +81,7 @@ window.CONFIG = {
       papel: "kraft",
       color: "#ffcf5a",
       tam: 52,
-      mensaje: "Contigo hasta los días malos terminan en risa.\nNunca dejes de reírte así.",
+      mensaje: "Con usted hasta los días malos terminan en risa.\nNunca deje de reírse así.",
       fotos: [{ src: "fotos/4.jpeg", pie: "Ese día" }],
     },
     {
@@ -99,7 +99,7 @@ window.CONFIG = {
       color: "#ff7a9a",
       tam: 54,
       mensaje: "Mi corazón tiene tu nombre escrito en cada latido.",
-      destacado: "Te amo",
+      destacado: "Le amo",
       fotos: [{ src: "fotos/6.jpeg", pie: "Mi corazón" }],
     },
     {
@@ -116,7 +116,7 @@ window.CONFIG = {
       estilo: "jarron",
       color: "#ffd166",
       tam: 50,
-      mensaje: "Tus abrazos son el único lugar donde todo se calma.",
+      mensaje: "Sus abrazos son el único lugar donde todo se calma.",
       fotos: [{ src: "fotos/abrazo.jpeg", pie: "Mi lugar seguro" }],
     },
     {
@@ -125,7 +125,7 @@ window.CONFIG = {
       papel: "blanco",
       color: "#fff0a0",
       tam: 46,
-      mensaje: "Te elegí ayer, te elijo hoy y te voy a elegir siempre.\nFeliz primavera, mi amor.",
+      mensaje: "La elegí ayer, la elijo hoy y la voy a elegir siempre.\nFeliz primavera, mi amor.",
       destacado: "Siempre juntos",
       fotos: [
         { src: "fotos/9.jpeg", pie: "Tú y yo" },
