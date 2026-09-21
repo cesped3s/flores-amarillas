@@ -117,7 +117,7 @@ window.CONFIG = {
       color: "#ffd166",
       tam: 50,
       mensaje: "Tus abrazos son el único lugar donde todo se calma.",
-      fotos: [{ src: "fotos/abrazos.jpg", pie: "Mi lugar seguro" }],
+      fotos: [{ src: "fotos/abrazo.jpeg", pie: "Mi lugar seguro" }],
     },
     {
       nombre: "Para siempre",
